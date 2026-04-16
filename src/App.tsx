@@ -17,7 +17,7 @@ function App() {
           <img src={logo} alt="" />
           <div className="headerRight">
             <nav>
-              <a href="#">Home</a>
+              <a href="#">me</a>
               <a href="#">About us</a>
               <a href="#">Services</a>
               <a href="#">Blog</a>
