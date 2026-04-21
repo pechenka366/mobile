@@ -21,7 +21,6 @@ function App() {
               <a href="#">About us</a>
               <a href="#">Services</a>
               <a href="#">Blog</a>
-              <a/>
               <a href="#">
                 <button className="btnContractUs">Contract us</button>
               </a>
