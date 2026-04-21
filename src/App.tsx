@@ -23,6 +23,7 @@ function App() {
               <a href="#">Blog</a>
               <a href="#">
                 <button className="btnContractUs">Contract us</button>
+                <button className="btnContractUs">Contract us</button>
               </a>
             </nav>
           </div>
